@@ -1,0 +1,8 @@
+data_dir:
+  artifacts: artifacts
+  indian_data: artifacts/Cleaned_Indian_Food_Dataset.csv
+  metrics: artifacts/metrics.csv
+model_names:
+  llama2: llama2
+metrics:
+  llama2: artifacts/llama2_metrics.json
