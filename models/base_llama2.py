@@ -6,7 +6,8 @@ import pandas as pd
 from argparse import ArgumentParser
 import re
 from base_utils.common_utils import write_json,read_params,clean_indian_ingredients,calculate_precision,calculate_recall
-from ..prompts.prompts import prompts
+from prompts.prompts import prompts
+
 
 def create_chain(model_name,prompt):
     llm = Ollama(model=model_name)
@@ -69,7 +70,7 @@ def metrics(data:pd.DataFrame,model_name:str,out_path:str,num_responses:int=1)->
 if __name__=='__main__':
     args=ArgumentParser()
     args.add_argument("--config_path",'-c',default='params.yaml')
-    args.add_argument("--num_responses",'-r',default=1)
+    args.add_argument("--num_responses",'-n',default=1)
     parsed_args=args.parse_args()
     configs=read_params(parsed_args.config_path)
     num_responses=int(parsed_args.num_responses)
