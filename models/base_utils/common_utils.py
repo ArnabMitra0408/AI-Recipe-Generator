@@ -25,3 +25,13 @@ def calculate_recall(actual_ingredients,gen_ingredients):
 def write_json(file_path,data):
     with open(file_path, "w") as f:
         json.dump(data, f, indent=4)
+
+def train_test_split(df,test_size:int=100):
+    if test_size > len(df):
+        raise ValueError("Test size cannot be larger than the number of rows in the DataFrame.")
+    
+    # Split the DataFrame
+    train_set = df.iloc[:-test_size]
+    test_set = df.iloc[-test_size:]
+    
+    return train_set, test_set
