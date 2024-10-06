@@ -37,7 +37,7 @@ def parse_response(response:str):
             gen_instructions.append(line[1:].strip())   
     return gen_ingredients,gen_instructions 
     
-def metrics(data:pd.DataFrame,model_name:str,out_path:str,prompt_out_path:str,num_responses:int=1)->None:
+def metrics(data:pd.DataFrame,model_name:str,metrics_out_path:str,prompt_out_path:str)->None:
     all_prompts=prompts()
     i=0
     all_metrics=[]
@@ -67,7 +67,7 @@ def metrics(data:pd.DataFrame,model_name:str,out_path:str,prompt_out_path:str,nu
         meta_data={'Prompt_Number':i,'Precision':avg_precision,'Recall':avg_recall}
         prompt_responses.append(responses)
         all_metrics.append(meta_data)
-    write_json(out_path,all_metrics)
+    write_json(metrics_out_path,all_metrics)
     write_json(prompt_out_path,prompt_responses)
     return
 
@@ -76,10 +76,9 @@ if __name__=='__main__':
     args.add_argument("--config_path",'-c',default='params.yaml')
     parsed_args=args.parse_args()
     configs=read_params(parsed_args.config_path)
-    num_responses=int(parsed_args.num_responses)
-    output_path=configs['data_path']['llama2_base']
+    metrics_out_path=configs['data_path']['llama2_base']
     prompt_out_path=configs['data_path']['llama2_base_prompts']
-    test_size=configs['test_size']['test_size']
+    test_size=int(configs['test_size']['test_size'])
     print("LLAMA2 is Running")
     indian_data_path=configs['data_dir']['indian_data']
 
@@ -93,5 +92,5 @@ if __name__=='__main__':
     #Test_data
     _,test_data=train_test_split(data,test_size)
     test_data.reset_index(inplace=True,drop=True)
-    metrics(test_data,model_name,output_path,prompt_out_path,num_responses)
+    metrics(test_data,model_name,metrics_out_path,prompt_out_path)
     print("Program Executed Successfully")
