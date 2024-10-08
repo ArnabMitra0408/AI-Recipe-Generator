@@ -47,10 +47,10 @@ def metrics(data:pd.DataFrame,model_name:str,metrics_out_path:str,prompt_out_pat
         responses={}
         precision_all=[]
         recall_all=[]
+        chain=create_chain(model_name,prompt)
         for row in range(data.shape[0]):
             print(f'Entry:{row}')
             actual_ingredients=data['Processed_Ingredients'][row]
-            chain=create_chain(model_name,prompt)
             response=chain.invoke({'Ingredients':actual_ingredients})
             gen_ingredients,gen_instructions=parse_response(response)
             gen_ingredients = [ingredient.lower() for ingredient in gen_ingredients]
