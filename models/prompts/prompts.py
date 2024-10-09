@@ -16,6 +16,7 @@ def prompts():
             - Step 2: (Continue with further instructions as needed)
         
         Focus solely on the 'Ingredients Used' and 'Instructions' sections. Do not include any additional commentary or explanations.
+
     """),
     ('user', "Ingredients: {Ingredients}")
         ])
