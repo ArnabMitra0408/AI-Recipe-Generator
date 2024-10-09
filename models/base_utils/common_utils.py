@@ -1,6 +1,10 @@
 import yaml
 import re
 import json
+from nltk.translate.bleu_score import sentence_bleu
+
+
+
 def read_params(config_path:str) -> dict:
     with open(config_path) as yaml_file:
         config = yaml.safe_load(yaml_file)
@@ -25,6 +29,14 @@ def calculate_recall(actual_ingredients,gen_ingredients):
 def write_json(file_path,data):
     with open(file_path, "w") as f:
         json.dump(data, f, indent=4)
+
+def calculate_bleu(reference_text,candidate_text):
+    reference_tokens = reference_text.split('/n')
+    candidate_text='\n '.join(candidate_text)
+    candidate_tokens = candidate_text
+    weights = (0.5, 0.5)
+    bleu_score = sentence_bleu(reference_tokens, candidate_tokens,weights=weights)
+    return bleu_score
 
 def train_test_split(df,test_size:int=100):
     if test_size > len(df):

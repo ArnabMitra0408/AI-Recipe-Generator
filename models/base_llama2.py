@@ -5,9 +5,9 @@ import numpy as np
 import pandas as pd
 from argparse import ArgumentParser
 import re
-from base_utils.common_utils import write_json,read_params,clean_indian_ingredients,calculate_precision,calculate_recall,train_test_split
+from base_utils.common_utils import write_json,read_params,clean_indian_ingredients,calculate_precision,calculate_recall,train_test_split,calculate_bleu
 from prompts.prompts import prompts
-
+from nltk.translate.bleu_score import sentence_bleu
 
 def create_chain(model_name,prompt):
     llm = Ollama(model=model_name)
@@ -16,26 +16,13 @@ def create_chain(model_name,prompt):
     chain=prompt|llm|output_parser
     return chain
 
-def parse_response(response:str):
-    lines = response.split('\n')
-    gen_ingredients = []
-    gen_instructions = []
-    in_ingredients = False
-    in_instructions = False
-    for line in lines:
-        line = line.strip() 
-        if line == "Ingredients Used:":
-            in_ingredients = True
-            continue
-        elif line == "Instructions:":
-            in_ingredients = False
-            in_instructions = True
-            continue
-        if in_ingredients and line.startswith("*"):
-            gen_ingredients.append(line[1:].strip())
-        elif in_instructions and line.startswith("*"):
-            gen_instructions.append(line[1:].strip())   
-    return gen_ingredients,gen_instructions 
+def parse_response(recipe_text:str):
+    ingredients_section = re.search(r'Ingredients Used:\n\n(.*?)\n\nInstructions:', recipe_text, re.DOTALL).group(1)
+    ingredients = re.findall(r'\* ([^(\n]+)', ingredients_section)
+    instructions_section = re.search(r'Instructions:\n\n(.*)', recipe_text, re.DOTALL).group(1)
+    instructions = re.findall(r'Step \d+: (.*?)\n', instructions_section)
+    ingredients = [ingredient.strip() for ingredient in ingredients]  
+    return ingredients,instructions
     
 def metrics(data:pd.DataFrame,model_name:str,metrics_out_path:str,prompt_out_path:str)->None:
     all_prompts=prompts()
@@ -47,6 +34,7 @@ def metrics(data:pd.DataFrame,model_name:str,metrics_out_path:str,prompt_out_pat
         responses={}
         precision_all=[]
         recall_all=[]
+        bleu_all=[]
         chain=create_chain(model_name,prompt)
         for row in range(data.shape[0]):
             print(f'Entry:{row}')
@@ -56,15 +44,19 @@ def metrics(data:pd.DataFrame,model_name:str,metrics_out_path:str,prompt_out_pat
             gen_ingredients = [ingredient.lower() for ingredient in gen_ingredients]
             precision=calculate_precision(actual_ingredients,gen_ingredients)
             recall=calculate_recall(actual_ingredients,gen_ingredients)
+            bleu=calculate_bleu(data['TranslatedInstructions'][row],gen_instructions)
             precision_all.append(precision)
             recall_all.append(recall)
+            bleu_all.append(bleu)
             responses[row]=response
         avg_precision=sum(precision_all)/len(precision_all)
         avg_recall=sum(recall_all)/len(recall_all)
+        avg_bleu=sum(bleu_all)/len(bleu_all)
         print(f'Precision is: {avg_precision}')   
         print(f'Recall is: {avg_recall}')
+        print(f'Bleu Score is: {avg_bleu}')
         i+=1
-        meta_data={'Prompt_Number':i,'Precision':avg_precision,'Recall':avg_recall}
+        meta_data={'Prompt_Number':i,'Precision':avg_precision,'Recall':avg_recall, 'Bleu Score': avg_bleu}
         prompt_responses.append(responses)
         all_metrics.append(meta_data)
     write_json(metrics_out_path,all_metrics)
