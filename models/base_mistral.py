@@ -17,29 +17,12 @@ def create_chain(model_name,prompt):
     return chain
 
 def parse_response(response: str):
-    lines = response.split('\n')
-    gen_ingredients = []
-    gen_instructions = []
-    in_ingredients = False
-    in_instructions = False
-    
-    for line in lines:
-        line = line.strip() 
-        if line == "Ingredients Used:":
-            in_ingredients = True
-            continue
-        elif line == "Instructions:":
-            in_ingredients = False
-            in_instructions = True
-            continue
-        
-        if in_ingredients and line.startswith("*"):
-            ingredient = line[1:].strip().split('(')[0].strip()
-            gen_ingredients.append(ingredient)
-        elif in_instructions:
-            instruction = re.sub(r'^\d+\.\s*', '', line)
-            if instruction:
-                gen_instructions.append(instruction.strip())
+    ingredients_section = response.split("Ingredients Used:")[1].split("Instructions:")[0].strip()
+    gen_ingredients = [re.sub(r'\s*\(.*?\)', '', ingredient.strip('- ').strip()) for ingredient in ingredients_section.split('\n') if ingredient]
+
+    instructions_section = response.split("Instructions:")[1].strip()
+    gen_instructions = [instruction.strip('- ').strip() for instruction in instructions_section.split('\n') if instruction]
+
 
     return gen_ingredients, gen_instructions
 
@@ -88,10 +71,10 @@ if __name__=='__main__':
     args.add_argument("--config_path",'-c',default='params.yaml')
     parsed_args=args.parse_args()
     configs=read_params(parsed_args.config_path)
-    metrics_out_path=configs['data_path']['llama2_base']
-    prompt_out_path=configs['data_path']['llama2_base_prompts']
+    metrics_out_path=configs['data_path']['mistral_base']
+    prompt_out_path=configs['data_path']['mistral_base_prompts']
     test_size=int(configs['test_size']['test_size'])
-    print("LLAMA2 is Running")
+    print("Mistral is Running")
     indian_data_path=configs['data_dir']['indian_data']
 
     data=pd.read_csv(indian_data_path,
@@ -99,7 +82,7 @@ if __name__=='__main__':
                               'Cleaned-Ingredients','TranslatedInstructions','Ingredient-count'])
     data['Processed_Ingredients'] = data['Cleaned-Ingredients'].apply(clean_indian_ingredients)
     
-    model_name=configs['model_names']['llama2']
+    model_name=configs['model_names']['mistral']
     
     #Test_data
     _,test_data=train_test_split(data,test_size)
