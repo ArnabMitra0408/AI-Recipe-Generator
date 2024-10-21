@@ -1,0 +1,11 @@
+data_dir:
+  artifacts: artifacts
+  indian_data: artifacts/Cleaned_Indian_Food_Dataset.csv
+  metrics: artifacts/metrics.csv
+model_names:
+  llama3: llama3.2
+data_path:
+  llama3_base: artifacts/llama3_base_metrics.json
+  llama3_base_prompts: artifacts/llama3_base_prompts.json
+test_size:
+  test_size: 20
