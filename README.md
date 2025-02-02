@@ -37,8 +37,25 @@ Fine-tuning was performed using **QLoRA (Quantized Low-Rank Adaptation)** to opt
 
 Three key metrics were used to evaluate model performance:
 
+
 - **Precision**: Measures how accurately the generated recipe uses relevant ingredients.
 
   **Formula:**
   ```markdown
   Precision = (Relevant ingredients used) / (Total ingredients used in the generated recipe)
+
+- **Recall**: Evaluates the completeness of the generated recipe in incorporating input ingredients.
+
+  **Formula:**
+  ```markdown
+  Recall = (Relevant ingredients used) / (Total input ingredients provided)
+
+- **BLEU Score**: Assesses the linguistic similarity between generated recipes and human-written recipes using n-gram overlap.
+
+  **Formula:**
+  ```markdown
+  BLEU = BP * exp(sum(w_n * log P_n))
+  Where:
+
+     1. BP is the brevity penalty
+     2. P_n is the modified precision for n-grams
