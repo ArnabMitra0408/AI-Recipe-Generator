@@ -1,0 +1,2253 @@
+sample_df_index,prompt1_output,prompt2_output,prompt3_output
+0,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - salt
+    - black salt
+    - asafoetida (hing)
+    - fennel seeds (saunf)
+    - jaggery
+    - red chilli powder
+    - mango
+    - methi seeds (fenugreek seeds)
+    - cumin seeds (jeera)
+    - turmeric powder
+    - garam masala powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+To begin making the Tawa Methi Chutney Recipe, first soak fenugreek seeds overnight or at least few hours to soften it.Next day morning grind them along with grated jaggery, green chilies into fine paste without adding any water.Add salt according to taste.Heat tava or flat skillet on high flame, add some butter and once hot spread little bit of prepared chutney mixture evenly across tawa.Cook both sides till light brown spots appear.Now take off from flame and sprinkle few drops of lemon juice on top.Garnish with chopped cilantro leaves.Serve the deliciously flavored Methi Chutney Recipe served alongside your favorite Indian curries like Palak Paneer Curry and Saag Gosht Recipe.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - salt
+    - black salt
+    - asafoetida (hing)
+    - fennel seeds (saunf)
+    - jaggery
+    - red chilli powder
+    - mango
+    - methi seeds (fenugreek seeds)
+    - cumin seeds (jeera)
+    - turmeric powder
+    - garam masala powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Heat oil in a kadai, add jeera, hing & saute till it crackles.
+Add finely chopped onions, green chilly, ginger garlic paste and curry leaves.
+Saute well till onion turns translucent.
+Now add tomatoes along with tamarind juice & pressure cook them for few minutes.
+Once done, mash tomato mixture with back of ladle.
+In the meanwhile, make the tempering by heating some oil/ghee in another small wok/kadhai.
+Fry cashews, raisins followed by dry coconut flakes.
+When they turn golden brown, switch off flame and keep aside.In the same vessel where you cooked tomatoes, now add boiled channa dal (split bengal gram) along with mashed potato chunks, pomegranate arils, grated carrot, coriander, mint leaves, fried cashew nuts, dried fruits mix, powdered sugar/salt, red chili powder, amchur powder, turmeric powder, garam masala, dhania jeera powder, kasuri methi, crushed peppercorns and give it a good stir.Once everything comes together, take care not to break up potatoes while stirring.
+Simmer on low-medium flame for about ten minutes.Add the tempered coconut pieces and simmer for more five minutes.Serve Chana Masale Wali Aloo Sabzi hot with Phulka and Papad.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - salt
+    - black salt
+    - asafoetida (hing)
+    - fennel seeds (saunf)
+    - jaggery
+    - red chilli powder
+    - mango
+    - methi seeds (fenugreek seeds)
+    - cumin seeds (jeera)
+    - turmeric powder
+    - garam masala powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+        Step 1: Begin by making sure that all necessary ingredients such as ginger-garlic paste, green chili, coriander leaves etc., are chopped finely so they blend well together while being cooked.
+Step 2:Add Oil into a saucepan and allow it to get hot enough to fry the chicken pieces without burning them.Add the fried onions and saute till light brown color.After frying add tomatoes alongwith tomato puree,salt,turmeric powder,cinnamon stick,garam masalas powders,green chilies,bay leaf,fennel seeds,dry fenugreek leaves,coriander powder & mix everything properly.Now put the marinated Chicken Pieces inside this mixture.Simmer covered for about half an hour until done completely after stirring occasionally.Stir once again before serving.Serve Aloo Tikki Chaat Recipe With Mint Chutney For Dinner On Weekdays Or Lunchtime And Enjoy It Alongside Some Cucumber Raita</s>"
+1,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - salt
+    - green beans (french beans)
+    - raisins
+    - black peppercorns
+    - carrot
+    - virgin olive oil
+    - coriander (dhania) leaves
+    - dijon mustard
+    - potato (aloo)
+    - red onion
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Begin by boiling water to make it easy to peel the skin from carrots and potatoes. Cut them into small pieces so that they can be cooked faster.Once you have peeled off their outer layer, cut each piece again lengthwise so as to get thin slices.In order to add more flavor, mix up some Dijon Mustard sauce along with chopped onions and grated ginger-garlic paste.Fry your veggies till golden brown and then transfer everything onto paper towel lined plate.Squeeze out excess moisture from the paper towels before placing back inside serving bowl.Add lemon juice, crushed black pepper powder, salt according to taste, dried fruits like dates or cranberries, mixed herbs like parsley/coriander leaves & finally sprinkle some extra virgin olive oil on top.Bring together all components within mixing bowls; serve immediately.Serve Cauliflower Gobi Matar Recipe alongside steamed rice, curd raita or any other side dishes such as Dal Tadka, Chole Bhature etc., for complete meal time feast.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - salt
+    - green beans (french beans)
+    - raisins
+    - black peppercorns
+    - carrot
+    - virgin olive oil
+    - coriander (dhania) leaves
+    - dijon mustard
+    - potato (aloo)
+    - red onion
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+        To make this delicious Aloo Gobi Recipe, you need some basic ingredients such as potatoes, carrots, cabbage, onions, garlic, ginger, turmeric powder, cumin seeds, garam masala powder, chillies, kasuri methi leaves, tomatoes, oil, dry mango powder, fresh cream, coriander powder, coriander leaves, sugar, lemon juice, salt according to taste and crushed pepper corns.
+        
+        First, wash and chop all vegetables into small cubes and keep aside.
+    
+        In a large skillet, add half cup of water along with chopped onions, ginger & garlic paste and saute till translucent.
+    
+        Then add finely chopped tomatoes along with other spice powders like turmeric powder, cumin powder, garam masala powder, chili powder, dhaniya powder, amchur powder, salt and mix well.
+    
+        Let it simmer on low flame for about 5 minutes.
+    
+        Once done, add mashed boiled potatoes, shredded carrots, grated cabbage, baby spinach leaves, crushed pepper corns, dried fenugreek leaves (kasoori methi), sugar, lemon juice and stir gently so that everything gets mixed properly.
+    
+        Cover the lid and let it cook for another 10-15 minutes stirring occasionally.
+    
+        Finally add cream and allow it to boil again uncovered.
+    
+        Check seasoning and adjust accordingly.
+    
+        Serve hot garnished with chopped cilantro leaves.
+</s>
+","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - salt
+    - green beans (french beans)
+    - raisins
+    - black peppercorns
+    - carrot
+    - virgin olive oil
+    - coriander (dhania) leaves
+    - dijon mustard
+    - potato (aloo)
+    - red onion
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+         - In a saucepan, combine potatoes, carrots, peas, onions, and celery stalks along with water to cover.
+          Bring it to boil; then reduce the heat and simmer covered until vegetables are tender but not mushy.
+           Drain out excess liquid if any left after boiling.
+          
+          Meanwhile, take another pot and add chopped spinach and turn up high flame till they wilt down completely.
+           
+          Once boiled, drain excess water from cooked veggies as well and transfer them into blender along with soaked cashews.
+         
+          Blend everything together to form smooth paste without lumps.
+        
+          Set aside.
+            
+          Season the blended mixture with salt, pepper powder, garam masala powder, cumin seeds powder, lemon juice, turmeric powder, crushed garlic pods and mix very well.
+          
+          Transfer the vegetable filling back inside the same empty pot.
+    
+          Spread some butter on top of the mashed lentil patties.
+  
+          Place each patty at an angle on top of one another so that they overlap slightly like tiles forming rows and columns.
+       
+          Drizzle few drops of melted ghee/oil around the edges of the layer and place lid tightly sealing the sides.
+      
+       Preheat oven at 180 degree Celsius.
+        
+      Bake the lasagna tray for about 25 minutes until golden brown colour appears on top.
+        
+      Remove from oven and serve hot!
+</s>"
+2,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - tomato
+    - salt
+    - cumin powder (jeera)
+    - coriander (dhania) leaves
+    - sev variety
+    - chaat masala powder
+    - red chilli powder
+    - onion
+    - lemon
+    - peanuts (moongphali)
+    - cucumber
+    - turmeric powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:To make the Tomato Onion Chutney:
+
+        In a mixer jar or blender add tomatoes, onions, green chili, ginger, garlic cloves, cumin seeds, tamarind paste, jaggery, salt to taste and blend it into smooth puree like consistency.
+        
+        Set aside.In another mixing bowl take yogurt, garam masala, roasted gram flour (besan), red chili powder, sugar and mix well till smooth paste is formed.Transfer the mixture back into the same blender and add blended chutneys.
+         Pulse again so that everything gets mixed together.Spoon out onto serving plate and garnish with chopped cilantro.Serve as a dip along with your favorite street food snack such as Vada Pav, Puri Bhajiya etc.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - tomato
+    - salt
+    - cumin powder (jeera)
+    - coriander (dhania) leaves
+    - sev variety
+    - chaat masala powder
+    - red chilli powder
+    - onion
+    - lemon
+    - peanuts (moongphali)
+    - cucumber
+    - turmeric powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+In a bowl mix together tomatoes, onions, cucumbers, salt, green chilies, garam masala, coriander powder, amchoor powder and cumin seeds.
+Mix well to combine and let it sit for at least half hour before serving.
+To make the salad dressing, whisk together yogurt, garlic paste, mustard seed powder, black pepper powder and salt till smooth.Add the prepared salad mixture into the creamy sauce along with chopped cilantro and adjust seasonings as needed.Serve Vegetable Salad Recipe topped with crispy fried paneer cubes and drizzled with homemade sweet tamarind sauce on the side.</s>
+","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - tomato
+    - salt
+    - cumin powder (jeera)
+    - coriander (dhania) leaves
+    - sev variety
+    - chaat masala powder
+    - red chilli powder
+    - onion
+    - lemon
+    - peanuts (moongphali)
+    - cucumber
+    - turmeric powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+        * In a large mixing bowl add boiled rice, chopped tomatoes, grated carrot, finely chopped cabbage, sliced cucumbers and onions, drained green peas, minced garlic cloves, ginger paste, crushed black peppercorns, roasted cumin seeds powder, garam masala powder, salt, mix well & refrigerate overnight.
+        
+         * Take out from refrigerator before an hour.
+    
+    	* After one hour take out serving plates, place them at center of the table.
+    
+    	 Pour the salad dressing onto each plate evenly.
+    	
+  		Place few spoons of potato wedges along side the salads.
+  	
+  	Top off the Potato Wedge with cilantro sprigs, mint leaves, shredded coconut shavings, crushed cashew nuts and sprinkle some Chaat Masala Powder just prior to serving.[END]
+"
+3,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - cashew nuts
+    - salt
+    - sunflower oil
+    - rice
+    - mustard seeds
+    - coconut
+    - asafoetida (hing)
+    - ghee
+    - dry red chilli
+    - curry leaves
+    - coriander (dhania) leaves
+    - white urad dal
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create an authentic Indian dish using only the provided ingredients.
+
+        The first thing we need to do is roast the cashews till they become golden brown and keep them aside.
+        Then add some water into a pressure cooker along with turmeric powder, cumin powder, salt, garam masala powder, black peppercorns and close it tightly.After few minutes release the pressure from the cooker.
+        Open it up and now place the roasted cashews into the pressure cooker and mix well.Cover again and let it boil till you get two whistles.
+        After that switch off the gas and allow the pressure to come down naturally.Once done transfer everything into a serving bowl garnish it with chopped green coriander and serve hot.Serve Bhuna Cashew Masala Recipe along with Jeera Rice or Dal Chawal to enjoy your weekend meal.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - cashew nuts
+    - salt
+    - sunflower oil
+    - rice
+    - mustard seeds
+    - coconut
+    - asafoetida (hing)
+    - ghee
+    - dry red chilli
+    - curry leaves
+    - coriander (dhania) leaves
+    - white urad dal
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: To make Sookha Poha Recipe/Sukka Poha Recipe/Crispy Sookha Poha Recipe, you need some basic ingredients such as poha/rice flakes, urad daal/split black lentils, sesame seeds/toor dal, peanuts/greengram/chana dal, green chillies, ginger garlic paste, onions, tomatoes, cumin powder/coriander powder/turmeric powder/red chilli powder, lemon juice, jaggery/palm sugar, oil/butter/ghee/mustard oil for frying, fresh mint leaves/pudina/cilantro/coriander leaves, fenugreek leaves/methi leaves, coriander powder/dry fruits like almonds, pistachios, dates etc.[/INST]
+        
+        For making sukha pohe recipe first wash it properly then drain water from them after washing.Now take small portion of sukh pohe in hand,sprinkle little amount of turmeric powder,cumin powder,red chilli powder,salt on top.Spread it evenly so that it gets coated well.After coating do not add any more spice otherwise they won't get cooked properly.Finally apply butter or oil around each piece of Suhi Pohe.
+Now let's move onto second part which involves preparation of tempering.In a kadhai heat oil till smoking hot.Add channa dal,fennel seeds & urid dhal.When crackling sound comes switch off flame immediately.Now put mustard seeds into hot oil; when its splutters add jeera & dried red chili.Crunchy brown color indicates perfect tempering is ready.Add freshly cut green chilly,finely chopped onion & saute until golden brown.Transfer fried mixture back into kadai alongwith drained Sookha Phoas spreaded earlier.Drain excess oil out from phoe before adding it to kadahi.
+Stir gently until everything mixes up nicely.Garnish Sukkha Poha with chopped cilantro/coriander leafs.Serve Sukkha Poha hot along with pickle made from kokum/Indian gooseberry or papaya pickle or even cucumber raita.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - cashew nuts
+    - salt
+    - sunflower oil
+    - rice
+    - mustard seeds
+    - coconut
+    - asafoetida (hing)
+    - ghee
+    - dry red chilli
+    - curry leaves
+    - coriander (dhania) leaves
+    - white urad dal
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create an authentic South Indian style Thalipeeth recipe by combining soaked parboiled rice flour, besan flour, urad daal, fenugreek seeds, green moong sprouts, methi patta, jaggery, onions, ginger garlic paste, cumin powder, turmeric powder, ajwain seeds and mix well.
+        Then add chopped carrot, beetroot, potatoes, zucchini and cabbage.
+        Spread it out into rounds like pancakes on a hot tawa or skillet.
+        Cook each side till golden brown spots appear and crisp up before flipping them.
+        Drizzle some ghee or olive oil on top while serving.Serve Thalipeeth along with Avial Recipe and Mango Raita for lunch.</s>
+"
+4,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - tomato
+    - spring onion greens
+    - ginger
+    - corn flour
+    - cloves garlic
+    - soy sauce
+    - chilli vinegar
+    - water
+    - green bell pepper (capsicum)
+    - onion
+    - soy (nuggets)
+    - red chilli sauce
+    - green chillies
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create a delicious Indian dish that will impress your friends and family at dinner parties! Here is how to make it:
+
+        First, wash the vegetables well under running water so they become clean and ready to use.In a large bowl add chopped tomatoes, onions, capsicums, ginger-garlic paste, lemon juice, soy sauce, black salt, cumin powder, turmeric powder, chili flakes, garam masala powder, mustard seeds, sugar, dry mango powder, coriander leaves, yogurt and mix them properly.Now take another small mixing bowl where you can put the batter made from gram flour, rice flour, baking soda, salt, cornflour, soy sauce, white sesame seed powder, red chilli sauce, vinegar and whisk together till everything mixes smoothly.Add the prepared vegetable mixture into the above mentioned wet ingredient and stir nicely.Spread some oil in a kadai or skillet on low flame and pour little portion of veggie stuffing inside it.Cover the lid and let it cook for around five minutes, after which turn off the gas.After turning off the stove open up the cover carefully and gently flip over each ladoo using two spatulas.Once done spread out flat on kitchen paper towels so as not to stick together while cooling down.Serve warm along side paratha or naan breads.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - tomato
+    - spring onion greens
+    - ginger
+    - corn flour
+    - cloves garlic
+    - soy sauce
+    - chilli vinegar
+    - water
+    - green bell pepper (capsicum)
+    - onion
+    - soy (nuggets)
+    - red chilli sauce
+    - green chillies
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:To begin making our Indian Cornflake Soy Nuggets Recipe, let us first preheat the oven to 350 F.
+        In a mixing bowl add the crushed flakes, breadcrumbs, panko bread crumbs, salt, chili powder, black peppercorns, cayenne pepper along with some grated cheese, mixed well.
+        Dip each nugget into beaten egg mix till it gets coated evenly from both sides.
+        Place them on a greased baking tray lined with parchment paper and bake for about 25-30 minutes turning once after half the time to ensure even browning.
+        Once done remove out onto a plate.
+        For the sauce we need to make, place the ketchup,sweet chili sauce,vinegar,chili paste,mustard powder,oil,tamarind concentrate together in a blender jar.Blend everything until smooth.In a small pot boil some water and keep aside.
+In a large skillet melt butter,add cornflour slurry then stir continuously to avoid lumps.Once thickened add boiled water little at a time stirring constantly while adding more until you get desired consistency.Heat up remaining butter in another skillet and shallow fry soy chunks until golden brown on both sides.Serve hot along with coriander chutney and pickles.</s>
+","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - tomato
+    - spring onion greens
+    - ginger
+    - corn flour
+    - cloves garlic
+    - soy sauce
+    - chilli vinegar
+    - water
+    - green bell pepper (capsicum)
+    - onion
+    - soy (nuggets)
+    - red chilli sauce
+    - green chillies
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        In a large mixing bowl combine the chopped onions, tomatoes, capsicums, and chilies; season well with salt and black pepper powder.
+        Place them in the refrigerator for about half an hour so that it gets cold enough to be cut into julienne strips easily later.
+        Take another large mixing bowl add soy sauce, chili paste, vinegar, sugar, sesame seeds, cornflour, olive oil & whisk together till smooth.
+        Set aside.
+        Cut the vegetables very finely as we need tiny pieces for stuffing.
+        Soak cashew nuts in hot water for few minutes and grind them coarsely along with fresh coriander leaves, cumin seed, mint leaves and green chilly in a mixer grinder without any water and keep aside.
+        Mix up the soaked vegetable mixture and spice mixture properly in one big mixing bowl and set aside.
+        Spread out some plastic sheet/parchment paper and place tofu slices over it.
+        Cover each slice with grated cheese evenly.
+        Sprinkle a little more salt on top.
+        Then spread the prepared filling mixtures over tofu slices generously.
+        Wrap each piece tightly and tie securely at intervals from both sides.
+        Fry them in preheated oil for 5-7 mins on low flame until golden brown from outside and crisp inside.
+        Serve Hot.[/INST]
+"
+5,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - gram wheat flour
+    - baking powder
+    - orange
+    - baking soda
+    - orange juice
+    - sugar
+    - chocolate chips
+    - brown sugar (demerara sugar)
+    - eggs
+    - butter
+    - gram vivatta maida
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create a delicious dessert recipe that combines two classic flavors- Orange & Chocolate.
+
+The key to achieving perfection lies in combining different textures such as soft chewy cookies combined with smooth silky custard filling topped off with chocolate chunks and crunchy nuts.
+
+To begin making the Oreo Biscuit Pie Recipe we will first make the base which is nothing but plain oreo biscuits soaked in milk mixed well into a paste alongwith some melted butter.
+
+This mixture forms the crust for our pie.Once done let it cool completely and keep aside.Now lets move onto next part i.e the Filling.In a bowl add egg yolks,melted dark chocolate,sugar,powdered icing sugar,orange zest,cinnamon powder and whisk everything together till light and creamy.Spoon out half of the mixture into another bowl leaving behind remaining half.Whisk cream cheese,tartar sauce,vanilla extract,greek yogurt,chocolate syrup,instant coffee granules,oil and mix them properly.Combine both mixtures well.Add melted white chocolate bar pieces and gently fold them carefully into prepared batter.Don’t beat too much otherwise you might loose texture.Meanwhile melt some more chocolates either through double boiler method or microwave oven.Heat water in saucepan just enough so that bottom layer gets heated without boiling water coming up to top.Place bowl containing uncooked chocolate above hot water from below.Covering lid helps retain temperature evenly.Allow chocolate to sit undisturbed for few minutes.Lift cover and check if its fully melted.If not repeat process again.After complete melting transfer into piping bag fitted with star tip.Make sure there aren't any lumps left inside.Make small holes around edges of your chilled pre baked cookie bases.Pipe desired amount of chocochip frosting decoratively across entire surface.Top each piece generously with fresh berries.Serve immediately after assembling while still warm.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - gram wheat flour
+    - baking powder
+    - orange
+    - baking soda
+    - orange juice
+    - sugar
+    - chocolate chips
+    - brown sugar (demerara sugar)
+    - eggs
+    - butter
+    - gram vivatta maida
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        First, combine the flours, salt, and baking powder together in a large bowl and mix well to incorporate them evenly.
+        In another mixing bowl, whisk together the milk, yogurt, egg whites, vanilla extract, and melted butter until smooth.
+        Pour the wet mixture into the dry mixture slowly while gently folding it in with a spatula until just combined.
+        Fold in the grated zucchini and chocolate chunks before transferring the batter onto prepared cake pans or muffin tins.
+        Bake in preheated oven at 180 degrees Celsius for about 20-25 minutes, or until a toothpick inserted comes out clean when tested.
+        Let cool completely on wire rack before serving.Serve warm or at room temperature alongside a cup of tea or coffee for breakfast or dessert.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - gram wheat flour
+    - baking powder
+    - orange
+    - baking soda
+    - orange juice
+    - sugar
+    - chocolate chips
+    - brown sugar (demerara sugar)
+    - eggs
+    - butter
+    - gram vivatta maida
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create an authentic Indian dessert recipe called 'Kesar Pista Kulfi' that uses only the given ingredients.
+          </s>"
+6,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - charcoal
+    - salt
+    - black salt
+    - hung curd (greek yogurt)
+    - kashmiri red chilli powder
+    - coriander powder
+    - mustard oil
+    - ghee
+    - chaat masala powder
+    - chicken thighs
+    - lemon
+    - ginger paste
+    - garam masala powder
+    - garlic paste
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Instructions:In order to create a delicious and authentic Indian recipe using only available ingredients, we will first start off by marinating the Chicken Thighs in a mixture of lemon juice, ghee, and salt for at least half an hour.In a large bowl, combine the lemon zest, lime juice, olive oil, honey, garlic cloves, onion powder, cumin seeds, paprika, thyme leaves, rosemary sprigs, dried oregano, crushed pepper flakes, sage leaves, parsley, celery stalk, bay leaf, basil leaves, cinnamon stick, clove, brown sugar, green cardamom pods, nutmeg pod, fennel seed, juniper berries, white peppercorns, sweet orange peel, coriander stems, fresh dill weed, caraway seeds, angelica root, sea salt, ground turmeric, dry mint leaves, star anise, hot sauce, fenugreek seeds, long pepper corns, cassia bark pieces, szechuan pepper, mace, lovage roots, wild leek bulbs, sesame seeds, tamarind concentrate, curry powder, saffron strands, whole coriander seeds, toasted cashews, pink Himalayan salt, butter beans, pomegranate molasses, radishes, parsnips, sunflower seeds, buckwheat groats, beet greens, chickpea flour, watermelon rinds, shallots, kale chips, baby spinach, quinoa, lentils, bulgar wheat grains, chives, flaxseed meal, yellow split peas, pumpkin puree, asparagus spears, carrots, jicama, roasted peanuts, broccoli florets, potato cubes, turnip tops, winter squash puree, cauliflower heads, spring onions, collard greens, apple cider vinegar, arborio rice, zucchini noodles, walnuts, green cabbage leaves, shelled edamame beans, pearl barley, pickled beets, cherry tomatoes, balsamic glaze, purple potatoes, avocado slices, green bell peppers, scallions, button mushrooms, golden raisins, smoked mozzarella cheese, flatbread breadsticks, sweet potatoes, baby carrots, brussels sprouts, dark chocolate chunks, red wine vinegar, sunflower kernels, pea shoots, pecans, jalapeno peppers, cranberries, chia seeds, black olives, pine nuts, blueberry compote, Greek yogurt, dates, apricot jam, hazelnuts, candied cherries, almond milk, tahini paste, fig preserves, grapefruit segments, oatmeal cookies, pita bread crackers, extra virgin olive oil, pear cider, ricotta cheese, agave nectar, coconut milk, unsalted almonds, puffed amaranth cereal, raw cashew butter, peanut butter, matchstick cucumbers, poppyseeds, pistachios, frozen raspberries, macadamias, shredded Brussels sprout leaves, soy sauce, sliced avocados, cream cheese, date syrup, banana bread, mango salsa, truffle oil, pears, caramelized pineapple rings, kiwi fruit, spelt flour, grilled peaches, sun-dried tomato pesto, goat cheese crumbles, vanilla extract, maple syrup, raspberry sorbet, dried cherries, oats, vegetable stock cube, chopped cilantro, couscous pearls, cocoa nibs, seitan strips, mixed berry compote, powdered stevia, minced shallot, cucumber ribbons, sesame seeds, gluten free pasta shells, canned garbanzo beans (chickpeas), whipped cream cheese, dried plums, fresh strawberries, homemade hummus, black sesame seeds, quail eggs, coconuts, roasted eggplant salad, mashed bananas, crispy bacon bits, chili pepper flakes, baked tofu, fresh herbs like mint & basil, grated Parmesan cheese, dried lavender flowers, green grapes, cooked quinoa, miso soup base, sriracha sauce, toasted almonds, baby lettuce mix, dried cranberries, bone broth, roasted butternut squash purée, pitted dates, dried goji berries, sunflower seeds, green tea powder, walnut oil, preserved lemons, tamari soy sauce, lemon grass, seaweed salad, hulled hemp hearts, Japanese yuzu kosho, spicy Thai fish sauce, freshly squeezed lime juice, jasmine rice, fresh ginger, coconut yoghurt, sweetened condensed milk, adzuki beans, dried cranberries, fresh pomegranates, organic granola bars, kimchi, pickles, fermented vegetables, nutritional yeast, nori sheets, cold brew coffee, coconut butter, burrata cheese, roasted pumpkin seeds, carrot sticks, rainbow chard, edible flowers, za'atar spice blend, popcorn kernels, fresh basil leaves, instant oatmeal, guacamole dip, pumpkin seeds, shaved feta cheese, dried mangoes, pickling liquid, dried currants, braised beef short ribs, fresh rosemary, kombu dashi stock, soft boiled eggs, spiralized sweet potato, smoked salmon, fresh dill pickle relish, pickled veggies, fresh basil leaves, quick-cooking steel cut oats, charred broccolini, pomegranate seeds, french bread rounds, black sesame seeds, vegan ranch dressing, mushroom gravy, sundried tomatoes, cracked black pepper, dried thyme, roasted brussel sprouts, light beer, bean sprouts, wasabi mayonnaise, baby kale, sunflower seeds, sourdough bread crumbs, brown rice pilaf, black sesame seeds, fried plantains, green tea ice cubes, soy sauce, roasted squash blossoms, brown sugar, sauerkraut, harissa spice mix, fresh mint leaves, fresh basil leaves, pinto beans, plain non dairy yogurt, pickled red onions, sesame seeds, baby kale leaves, avocado, garlic infused olive oil, fresh mint leaves, japanese furikake seasoning, toasted sesame oil, capers, tabbouleh salad, garlic, romaine lettuce, smoked turkey breast, brazilian feijao com queijo, crunchy cucumber slaw, horseradish mayo, smoked trout fillets, chipotle aioli, kosher salt, fresh dill, toasted coconut flakes, roasted sweet potatoes, basmati rice, finely chopped celery, red wine vinaigrette, fresh cilantro leaves, sun-dried tomatoes, dried cranberries, roasted butternut squash, red bell peppers, italian breadcrumbs, cremini mushrooms, baby arugula leaves, spaghetti squash, fresh herbs such as oregano, smoked albacore tuna steaks, roasted sweet potato wedges, roasted beetroot, brown sugar, thai shrimp dumplings, hoisin sauce, white wine, green applesauce, fresh oranges, fresh dill, panko breadcrumbs, red onions, soy sauce, pickled red onions, portobello mushrooms, fresh mint leaves, fresh spinach leaves, red wine vinegar, swiss chard, canola oil, toasted sesame seeds, vegetarian burger patties, green onions, white wine vinegar, baby potatoes, red bell peppers, piquillo peppers, grilled flank steak, toasted almond butter, sweet potatoes, roasted pumpkin seeds, low sodium soy sauce, chinese five-spice powder, roasted brussels sprouts, soybean oil, thinly sliced pork belly, peach barbecue sauce, roasted garlic, fresh coriander leaves, red bell pepper, creamy cashew nut spread, mirin sake, white wine, fresh cilantro leaves, mandarin orange segments, brown sugar, fresh mint leaves, pickled jalapeño, pickled red onions, roasted garlic aioli, pickled daikon radish, sirloin steak, simple roast veggie tray, pickled carrots, roasted kabocha squash, spanish chorizo sausage, fresh cilantro leaves, baby kale leaves, lemon juice, pickled cucumber, fresh rosemary leaves, fresh dill leaves, pickled jalapeños, pomegranate seeds, pickled red onions, roasted fingerlings potatoes, teriyaki sauce, fresh rosemary leaves, fresh mint leaves, lightly seasoned rice noodles, baby kale leaves, fresh parsley leaves, roasted eggplants, pickled red onions, asian style BBQ sauce, smoked brisket, roasted butternut squash puree, brown sugar, grilled citrusy shrimp skewer, pickled jalapenos, pickled red onions, pomegranate seeds, pickled daikon radish, roasted acorn squash puree, mild chili powder, roasted okara burgers, pickled red onions, pickled red cabbage, roasted delicata squash puree, roasted rutabaga mash, roasted plum tomatoes puree, roasted sweet potato fries, roasted sweet potato hash browns, roasted red pepper puree, roasted winter squash puree, roasted beets","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - charcoal
+    - salt
+    - black salt
+    - hung curd (greek yogurt)
+    - kashmiri red chilli powder
+    - coriander powder
+    - mustard oil
+    - ghee
+    - chaat masala powder
+    - chicken thighs
+    - lemon
+    - ginger paste
+    - garam masala powder
+    - garlic paste
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+        To begin making Chicken Kebabs Recipe:
+        Preheat oven to 180°C /360°F/Gas mark 5.
+        In a large bowl combine ground turkey mince, chopped onion, green chillies, mint leaves, cumin seeds, coriander, paprika, turmeric powder & salt.
+        Mix well so that it combines evenly into a thick mixture.
+        Divide the kebab mix equally among four pieces of foil sheet.
+        Fold each piece tightly around its contents like a parcel.
+        Brush some olive oil on top and place them on a baking tray lined with parchment paper.
+        Bake at preheated temperature for about 20 minutes or till cooked through completely.Serve hot as part of your weekend dinner menu along with Rice Pilaf Recipe and Cucumber Raita.
+</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - charcoal
+    - salt
+    - black salt
+    - hung curd (greek yogurt)
+    - kashmiri red chilli powder
+    - coriander powder
+    - mustard oil
+    - ghee
+    - chaat masala powder
+    - chicken thighs
+    - lemon
+    - ginger paste
+    - garam masala powder
+    - garlic paste
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+        Here's how we would make the Chicken Tikka Masala recipe:
+
+        Preheat oven to 180°C.
+        In a large bowl, combine yogurt, spice powders such as turmeric, paprika, cumin seeds, cardamom pods, cinnamon stick & cloves.
+        Mix well so that everything is coated evenly into the marinade.
+        Place the chicken pieces inside and coat them completely.
+        Cover tightly with cling wrap/plastic sheet and refrigerate overnight or at least few hours before grilling/baking.
+
+         Grill / Bake it till done; about half an hour depending upon thickness of each piece.
+         Once cooked, set aside and keep warm while making gravy.
+        
+        For Gravy:Heat butter/ghee in a saucepan over low flame.
+        Add onion slices and sauté until they become soft and translucent.
+        Sprinkle some water if needed to prevent sticking.
+    
+        Next add tomatoes along with their juices, green chilies, tomato puree, ground cashew nut paste & mix well.
+        Cook uncovered for around five minutes stirring occasionally.
+        
+       Stir in garam masalas like pepper corns, fenugreek leaves, dried mango powder, tamarind concentrate, sugar syrup, kasuri methi powder, salt according to taste and stir again for another minute.
+       
+       Finally sprinkle milk, simmer covered for further three minutes or till desired consistency.
+      
+      Serve hot garnished with chopped coriander leaves along side steamed basmati rice or jeera pulao and raita.
+</s>"
+7,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - sesame seeds (til seeds) dry
+    - mustard seeds
+    - cloves garlic
+    - curry leaves
+    - white urad dal (split)
+    - dry red chillies
+    - cumin seeds (jeera)
+    - green amaranth leaves
+    - turmeric powder
+    - green chillies
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+To begin making Amaranth Leaves Poriyal Recipe, first wash & drain well the fresh greens under running water.
+Heat oil in a small kadai or wok.
+Once hot add in urad dal, chana dal, mustard seeds and allow them to splutter.Once they start crackling, add in cumin seeds, dried red chili and let it roast for few seconds.Add in chopped garlic and saute till golden brown color.Next, add in washed and drained amaranth leaves alongwith salt and mix gently.
+Cover the lid and allow it to steam cook for about five minutes.Check if the greens have cooked properly.Cooking time may vary depending upon your greens.
+Add more water as needed and sprinkle some ghee /oil on top.Allow everything to simmer uncovered for another two-three minutes.Serve Amaranth Greens Poriyal Recipe along with Steamed Rice, Curd Raita and Pickled Mango Chutney for a healthy weekday meal.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - sesame seeds (til seeds) dry
+    - mustard seeds
+    - cloves garlic
+    - curry leaves
+    - white urad dal (split)
+    - dry red chillies
+    - cumin seeds (jeera)
+    - green amaranth leaves
+    - turmeric powder
+    - green chillies
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+In a pressure cooker add water, sesame seeds,toor dhal,turmeric,salt & close it tight after whistle switch off the flame leave it as such till you get two whistles.Once done open the lid carefully,add chopped green chilly and onion.
+Now mash everything together,check salt if needed.
+Cooking time depends on how long you want the mixture to be cooked like more mushy texture then less time else vice versa.","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - sesame seeds (til seeds) dry
+    - mustard seeds
+    - cloves garlic
+    - curry leaves
+    - white urad dal (split)
+    - dry red chillies
+    - cumin seeds (jeera)
+    - green amaranth leaves
+    - turmeric powder
+    - green chillies
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:To make a simple and flavorful Masala Poha Recipe, we begin by sautéing some aromatics like onions and tomatoes along with some spices such as ginger-garlic paste, cumin seeds, coriander powder and garam masala powder.
+Once everything is well combined, add in some boiled poha flakes which have been soaked in water and cooked till it becomes soft yet slightly crunchy.Add salt to taste and mix well.
+Finally garnish with chopped cilantro leaves before serving.Serve hot or at room temperature alongside any curries or raitas of choice.</s>"
+8,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - salt
+    - green beans (french beans)
+    - ginger
+    - red chilli powder
+    - carrot
+    - cloves (laung) garlic
+    - cumin seeds (jeera)
+    - black pepper powder
+    - coriander powder
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+        To make the Palak Gobi Recipe (Spinach & Cauliflower Stir Fry), you will need to first prepare the vegetables according to your preference.
+        Wash both spinach leaves and cauliflower florets well under running water.
+        Chop them into small pieces so that they can be easily cooked together.
+        Once done, keep it aside till use.
+        In a large saucepan or wok, add olive oil and allow it to heat up.
+        Next, add cumin seeds, jeera, chopped onions and saute until the onion becomes translucent and softens slightly.
+        After few minutes, add minced ginger-garlic paste along with crushed tomatoes.
+        Give everything a good stir while adding little bit of salt to bring out flavors from the tomato puree.
+        Let this simmer for about five minutes till oil starts separating around edges.
+        This is where we introduce our greens and cauliflower.
+        Give another quick mix and let it continue to cook covered for three more minutes.
+        Finally sprinkle some garam masala, red chili powder, coriander powder and black pepper powder.
+        Mix gently and serve hot as a side dish alongside rice and dal chawal.</s>
+","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - salt
+    - green beans (french beans)
+    - ginger
+    - red chilli powder
+    - carrot
+    - cloves (laung) garlic
+    - cumin seeds (jeera)
+    - black pepper powder
+    - coriander powder
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        In a small bowl mix together grated carrots, chopped French Beans, Ginger paste, Garlic Paste, Cumin Seeds Powder, Coriander Powder, Red Chilli Powder, Black Pepper Powder & Salt.
+        Then add them into a saucepan filled with water and boil it till its tender. Once boiled drain out excess water and let it cool down completely.
+        After cooling make round shape balls from that mixture.Now keep aside.
+         Take another mixing bowl add Maida flour alongwith Water & Egg Whites whisk well till smooth batter comes out.In between you can also add some more egg whites if required so as to get thick consistency.
+         Preheat the Oil at medium temperature on high flame for deep frying.Beat up Carrot Balls again then gently dip each ball one after other into the Batter.Take out out dipped Ball carefully slowly drop into hot oil and fry them on low flame till they turn golden brown from outside.After done remove it in tissue paper on plate to absorb excess oil.Once cooled store it in Airtight container.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - salt
+    - green beans (french beans)
+    - ginger
+    - red chilli powder
+    - carrot
+    - cloves (laung) garlic
+    - cumin seeds (jeera)
+    - black pepper powder
+    - coriander powder
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:To make an authentic Indian Dal Makhani recipe that is full of flavors and textures, we start off by soaking the dal overnight.
+        This allows us to soften it while also reducing its cooking time when boiling later on.In order to add more flavor into our potluck Dal Makhni, let's begin by sautéing some onions till they turn translucent.Next up, we'll throw in tomatoes which have been blended together along with turmeric powder, garam masala powder, cayenne pepper flakes and salt.Add water as needed so there isn't too much liquid left at the end.Once everything has simmered down nicely after about twenty minutes, mix in cream cheese cubes until well incorporated.Finally, stir in cooked lentils making sure not to break them apart before serving.Serve hot alongside rice or naan breads for a satisfying meal!</s>"
+9,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - salt
+    - red chilli powder
+    - curd
+    - lemon
+    - mustard seeds ground powder
+    - turmeric powder
+    - sarsaparilla (mahali root)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+Instructions:
+
+To make Maharashtrian Saraphani Recipe or Sarpagandha Masala Chutney Recipe, firstly you have to soak raw mangoes into water overnight to soften it up well so that we can grind them easily next day morning.
+Next day morning, take soaked raw mangos in grinder jar along with curds, red chili powder, black pepper powder, coriander leaves, tamarind paste, salt, cumin seeds, jaggery, sunflower oil and pomegranate rind.
+Grind everything together till smooth mixture is formed.Once done, transfer the chutney in bowl and add chopped coriander leaves on top of sarphadne masalachi chutney.Serve Maharastrain Saraphane Masalechi Chutney Recipe along with your favourite snacks like Bhel Puri, Dahi Vada etc.Serving suggestion:Maharashtra's Sarafni Masalechi Chutney goes very good as a side dish for bhakri during monsoon season due to its tangy taste.If you want then serve along with steamed rice too which will give you overall healthy meal.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - salt
+    - red chilli powder
+    - curd
+    - lemon
+    - mustard seeds ground powder
+    - turmeric powder
+    - sarsaparilla (mahali root)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: Prepare all ingredients first as listed above.
+        In a large skillet, add about one tablespoon of olive oil on low-medium flame.
+        Once hot enough, stir fry onions until they become translucent.
+        Then add ginger garlic paste followed by green chilies, curry leaves, coriander stems and continue stirring till it becomes aromatic.
+        Next add tomatoes along with some water to cover them completely.
+        Let it boil for few minutes before adding other spice powders such as garam masala, red chili powder, cumin powder, fennel seed powder etc., give it a good mix.
+        After that simmer down the heat level slightly so that you can slow cook everything together without burning anything at bottom of the pan.
+        Lastly season up with black pepper, dried fenugreek leaves, kasuri methi powder & finally sprinkle chopped cilantro just prior serving.Serve hot alongside steamed basmati rice or paratha breads.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - salt
+    - red chilli powder
+    - curd
+    - lemon
+    - mustard seeds ground powder
+    - turmeric powder
+    - sarsaparilla (mahali root)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        I am going to make ""Chana Masala"". Chole masala is basically chickpea curry cooked along with onion tomatoes and mixed herbs like cumin, coriander etc.
+        
+        First we need to soak channa overnight so that it gets soften and easy to mash after cooking.
+        
+        After soaking take them out from water and pressure cook till one whistle comes.
+        
+        Let it cool down then open it up and put it into mixer grinder.
+        
+        Mash them well and set aside now.
+        
+        Take a heavy bottomed saucepan add ghee or butter on low flame.
+        
+        Once melted add finely chopped onions followed by garlic cloves.
+        
+        Cook till they become light brown colour, don't let them burn otherwise it may affect taste.
+        
+        Next add ginger paste and green chilly paste and saute for few minutes.
+        
+        Then finally add tomato puree and cook till raw smell goes away.
+        
+        Finally add mashed chick peas, salt and spice powders like garam masala powder, chaat masala, dry mango powder, dhania jeera powder, red chili powder, kasuri methi and mix everything properly.
+        
+        Give it good stir once again and cover it with lid.
+        
+        Simmer it for about five minute.
+    
+        Check if salt and spice level suits your liking as per requirement adjust accordingly.
+        
+        Turn off gas and garnish it with fresh cream and cilantro leaves before serving.Serve hot with phulkas or steamed rice.</s>"
+10,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - pistachios
+    - ghee
+    - sugar
+    - aloe vera (white jelly within aloe vera leaves)
+    - milk full fat
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+To begin making the Pistachio Aloo Gobhi Sabzi Recipe, first wash and peel off the outer skin of the potatoes and boil them till they become soft but not mushy or falling apart.
+Once done set aside to cool down.After cooling down you can mash them up roughly.
+In another vessel take sliced carrots and cabbage along with little water just enough so that it is covered.
+Cook till half cooked.Once boiled drain excess liquid from carrot and cabbage.Now add mashed potato into the boiling veggies mix well.Add salt, red chilli powder, cumin powder, turmeric powder and coriander powder.Fry the whole lot in ghee till it starts leaving its aroma.Now after frying transfer the mixture back to the pressure cooker along with a cup of water.Cover tightly seal the lid and allow it to cook under high flame for two whistles.In low heat let it simmer for next five minutes before switching off the gas.Allow the steam to escape naturally.Open the cover gently once cooled completely.Sprinkle some fresh chopped cilantro/coriander leafs on top.Serve hot as a side dish with Dal Makhani Recipe or Rajasthani Kadhi Pakora Recipe</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - pistachios
+    - ghee
+    - sugar
+    - aloe vera (white jelly within aloe vera leaves)
+    - milk full fat
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+          For making Pista Halwa Recipe | Pistachio Burfi Recipe :  
+In a heavy bottomed saucepan, add ghee, jaggery & stir it till it melts completely.In another bowl, mix together almonds powder, cardamom powder & saffron strands.Simmer the mixture on low flame stirring continuously till it thickens.Add chopped pista & almond paste into it now.Pour into greased thali/baking tin & let it cool down completely.Cut them as desired shapes & serve.Serve Pista halwa recipe along with Phulka breads during evening snacks.
+</s>
+","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - pistachios
+    - ghee
+    - sugar
+    - aloe vera (white jelly within aloe vera leaves)
+    - milk full fat
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Prepare the base first by boiling some water in a saucepan along with salt & turmeric powder.
+In another heavy bottomed vessel take butter, jaggery,sugar,cashews,pistaches and sauté them till it gets browned.Now add in chopped almonds,ghee,holy basil seeds,oats,milk and let it boil for about two minutes so that oats get cooked well.Add in sliced apples mix everything together and simmer until done.Allow it cool completely.Take out from fire and refrigerate.Serve chilled with ice cream.</s>
+"
+11,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - citric acid crystals
+    - black salt
+    - salt
+    - cardamom (elaichi) podsseeds black
+    - amchur (dry mango powder)
+    - asafoetida (hing)
+    - fennel seeds (saunf)
+    - water
+    - dry ginger powder
+    - sugar
+    - cumin seeds (jeera)
+    - pineapple juice
+    - lemon
+    - black pepper powder
+    - jal jeera powder
+    - mint powder (pudina)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create an Authentic Indian Dish Using Only Provided Ingredients
+
+To begin creating your own unique recipe using our pre-selected ingredients:
+
+Step 1: Gather all the required ingredients mentioned above.Step 2: In a mixing bowl add finely chopped onions, green chillies, coriander leaves, tomatoes,cloves garlic, ginger paste, garam masala powder, turmeric powder, red chili flakes,jalapeno peppers and mix well.Stir in some curd and make sure there aren't any lumps left.Afterwards, give it another good stir.Now its time to add boiled potatoes alongwith cashews pieces into the mixture.Mix everything together till combined nicely.Cover the entire bowl tightly with cling wrap or aluminum foil.Then place it inside the fridge for about half hour so that flavors can marinate properly.Once done take out from refrigerator.Take out large serving plate or tray.Preheat oven at around 200 degrees Celsius.In a small saucepan boil one cup water.Add cornflour gradually while stirring constantly until smooth consistency is achieved.Pour prepared thickened cream mixture onto mashed potato chunks evenly.Distribute them carefully on top of cooked rice base layer.Bake for about ten minutes or till golden brown.Serve hot accompanied alongside naan breads and raitas.</Instructions>
+</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - citric acid crystals
+    - black salt
+    - salt
+    - cardamom (elaichi) podsseeds black
+    - amchur (dry mango powder)
+    - asafoetida (hing)
+    - fennel seeds (saunf)
+    - water
+    - dry ginger powder
+    - sugar
+    - cumin seeds (jeera)
+    - pineapple juice
+    - lemon
+    - black pepper powder
+    - jal jeera powder
+    - mint powder (pudina)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:To make Pineapple Raita Recipe, you'll need some simple ingredients like pineapples, yogurt, curd, coriander leaves, garam masala powder, green chillies, salt and pomegranate seeds.
+        First, peel off the skin from the pineapple and cut it into small cubes.
+        Next, combine the remaining ingredients in a mixing bowl and blend them well till smooth.
+        Finally, add the chopped pineapple chunks to the mixture and mix everything together.
+        Chill the raita for at least one hour before serving.Serve Pineapple Raita along with Masoor Dal Khichdi and Jeeragullu Pachadi for a healthy dinner.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - citric acid crystals
+    - black salt
+    - salt
+    - cardamom (elaichi) podsseeds black
+    - amchur (dry mango powder)
+    - asafoetida (hing)
+    - fennel seeds (saunf)
+    - water
+    - dry ginger powder
+    - sugar
+    - cumin seeds (jeera)
+    - pineapple juice
+    - lemon
+    - black pepper powder
+    - jal jeera powder
+    - mint powder (pudina)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create an authentic recipe from scratch that can be cooked at home without any special equipment.Ingredients:-Citrus fruits-Black Salt-Peppercorns-Garlic cloves-Wheat Flour-Sugar-Cardamom Seeds-Lemon Juice-Olive Oil-Tamarind Paste-Chicken Breast-Mint Leaves-Cayenne Pepper Powder-Basil leavesSalt-Pistachios (ground)-Cinnamon sticks-Dried Cranberries-Rice flour-Fresh Herbs (coriander, cilantro), optional.Gather all the necessary ingredients for your culinary adventure.Step 1: Wash and peel citrus fruits like oranges and lemons, then cut them into bite-sized pieces.Place the peeled fruit chunks in a food processor along with some olive oil, zest of one orange and fresh herbs such as basil, parsley, coriander etc.Cover it up tightly and blend till smooth.Once done add tamarind paste, honey, ground cinnamon stick and mix well again.Now pour this mixture into a large bowl.Add chopped chicken breast cubes, crushed peppercorn and toss everything together carefully so that each piece gets coated evenly.Sprinkle rice flour generously over both sides of chicken and let sit for about half hour before grilling.Serve grilled chicken skewers topped with homemade sauce made out of pureed citrus fruit pulp and aromatic herbs garnished with pomegranate arils and toasted pistachio nuts.[END]
+"
+12,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - baking powder
+    - salt
+    - buttermilk cold
+    - baking soda
+    - flour (maida)
+    - butter
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+          In a mixing bowl whisk together maida,salt,baking powder and soda till it becomes light & fluffy.In another large mixing bowl combine yogurt or sour cream,cold milk, eggs,vanilla extract & sugar.Gradually add dry mixture to wet mixture and fold gently without making any lumps.Add melted butter into batter and mix well.Spoon the prepared pancake batters onto hot griddle/frying pan.Preheat your frying pan over medium-low flame.Cover the pancakes from both sides until golden brown.Once done flip over them.Serve Hot with Caramelized Bananas And Chai Syrup Recipe For A Delicious Breakfast.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - baking powder
+    - salt
+    - buttermilk cold
+    - baking soda
+    - flour (maida)
+    - butter
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+       We have given you the basic recipe for making pancakes without eggs.
+       
+       You can make variations based on the seasonality of fruits that you prefer.
+       
+       Make sure that you use high-quality fruit like apples, pears, peaches etc so as to give it a nice texture and taste.
+        
+     Here's how we made our delicious Pancakes Recipe With Apples & Blueberries Without Eggs Using Maida And Baking Powder.
+     
+      First things first! Preheat oven at 180 degrees Celsius while mixing up your batter!
+      
+      After preheating oven, grease a round cake tin with some melted butter or olive oil.
+      
+      In a bowl mix together milk, yogurt, sugar and vanilla extract till well combined.
+      
+      Sieve maida and add into the mixture alongwith baking powder,butter,cinnamon and blueberry jam.
+      
+      Whisk until smooth and pour evenly onto greased tray.
+      
+      Bake for about 25 minutes or until done and golden brown.
+      
+      Once baked allow to cool down completely before cutting them out neatly from the sides of the mould.
+      
+      Serve hot with maple syrup and fresh berries on top.Serve hot alongside freshly brewed coffee or tea for breakfast.</s>
+","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - baking powder
+    - salt
+    - buttermilk cold
+    - baking soda
+    - flour (maida)
+    - butter
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        1) Preheat oven at 375 degrees F /190 C for about 10 minutes.In a bowl combine flours,mix well till no lumps remain.Add salt,baking powder,soda,butter & milk together into another big mixing bowl.Mix everything properly to form dough.Don't knead it too much as we need to keep it slightly crumbly.Now place the ball of dough on a lightly dusted surface.Slightly flatten it and roll out like an oval.Make sure that there is enough space from each end so that while rolling out later, you can easily wrap around without breaking it.Roll out the dough gently and carefully fold twice.
+         Now take one side of rolled out dough and start making small pleats along the length.
+          Repeat the same process for other half.Pinch the edges very tightly.Place them on greased parchment paper lined tray.Bake it in preheated oven for approximately 15-20 mins.Serve hot after garnishing it with some sugar syrup.[/INST]</s>"
+13,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - tomato
+    - coriander (dhania)
+    - cumin powder (jeera)
+    - ginger
+    - salt
+    - cardamom (elaichi) podsseeds
+    - cloves garlic
+    - onion
+    - cinnamon stick (dalchini)
+    - rajma (large kidney beans)
+    - turmeric powder
+    - butter
+    - garam masala powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        For Rajma Masala Recipe:
+
+Heat oil in a pressure cooker or a deep frying pan.
+Add bay leaf, cinnamon sticks, clove, star anise, green chilies, grated ginger, chopped onions, tomatoes, powdered coriander seeds, red chillies, cumin powder, dry mango powder, gram flour, soaked rajma, turmeric powder, sugar, salt to taste.
+Mix well till it becomes paste like consistency.Add water as required and pressure cook it for 10 whistles.
+Once done allow natural release of steam.
+Open the lid carefully.
+Check if there is excess moisture left.
+If yes then drain out that liquid from the gravy else no need to do so.Now take a bowl mix yogurt, powdered cashew nuts, red chili powder, roasted cumin powder, black pepper powder, salt to make creamy thick sauce.
+In a serving plate spread some masala masoor dal curry mixture evenly and pour cream mixed yoghurt on top.Serve hot with phulkas or chapatis and enjoy! </s>
+","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - tomato
+    - coriander (dhania)
+    - cumin powder (jeera)
+    - ginger
+    - salt
+    - cardamom (elaichi) podsseeds
+    - cloves garlic
+    - onion
+    - cinnamon stick (dalchini)
+    - rajma (large kidney beans)
+    - turmeric powder
+    - butter
+    - garam masala powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+In a saucepan, add tomatoes, green chillies, cumin seeds, chopped onions, crushed garlic, ginger, turmeric powder, red chilli flakes, garam masala powder and salt as per taste.
+Mix well and let it simmer on low flame till soft and mushy.
+Add boiled Rajma along with water (adjust consistency according to preference).
+Stir gently so that no lumps form.
+Simmer uncovered for another 5 minutes and serve hot.Serve Rajma Masala Recipe along with phulka bread and salad for dinner.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - tomato
+    - coriander (dhania)
+    - cumin powder (jeera)
+    - ginger
+    - salt
+    - cardamom (elaichi) podsseeds
+    - cloves garlic
+    - onion
+    - cinnamon stick (dalchini)
+    - rajma (large kidney beans)
+    - turmeric powder
+    - butter
+    - garam masala powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create an authentic Indian recipe that uses only the given set of ingredients.To begin, let's first identify which ingredient is most commonly used as base while making such dishes like Rajma Masala.Here we have identified Onion and Tomato as two common bases.In order to make it more flavorful, add some other flavors like Ginger Garlic Paste alongwith Cumin Powder (Jeera), Turmeric Powder & Garam Masala.Additionally, if desired one can also include few Cardamoms Seeds to enhance the flavor.Apart from Vegetables, there is no need of any meat/fish/chicken product in the preparation.The use of Butter gives richness and creaminess to the final dish.Finally spice up the curry with a dash of Lemon Juice.Serve hot alongside Steamed Rice or Parathas for a wholesome meal.</s>"
+14,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - salt
+    - milk
+    - red chilli powder
+    - cloves garlic
+    - mozzarella cheese
+    - virgin olive oil
+    - onion
+    - potato (aloo)
+    - soy (nuggets)
+    - eggs
+    - spinach leaves (palak)
+    - garam masala powder
+    - pepper
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        Start off by heating some butter or oil in a large skillet over high heat.
+Add the potatoes and season them generously with salt, pepper, cumin seeds, turmeric powder and garam masala.
+Cook for about five minutes till they turn slightly browned on both sides.
+Now add the chopped onions to the skillet alongwith the grated ginger-garlic paste and saute it until soft and translucent.Add the green peas and mix well.
+Give everything a good stir and let it simmer uncovered for another two-three minutes.Check seasoning, adjust accordingly if needed.Now pour in one cup of warm water into the skillet.Cover the skillet tightly and allow pressure cooker to come up to full pressure before releasing the steam.
+Once done remove from flame.Serve Palak Paneer Recipe with Steamed Rice or Jeera Pulao as your side dishes.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - salt
+    - milk
+    - red chilli powder
+    - cloves garlic
+    - mozzarella cheese
+    - virgin olive oil
+    - onion
+    - potato (aloo)
+    - soy (nuggets)
+    - eggs
+    - spinach leaves (palak)
+    - garam masala powder
+    - pepper
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        First, preheat oven to 375 degrees F.
+        In a large bowl combine the potatoes, egg whites, flour, paprika, salt, thyme, mustard seeds, parsley, basil and rosemary.
+        Mix well so that everything gets coated evenly.
+        Place on a greased baking sheet lined with parchment paper and bake for about 30 minutes or until golden brown.
+        Once baked set aside and let it cool down completely before assembling.
+        For assembly, take one piece at a time from the tray and roll them into small balls.
+        Dip each ball into beaten egg white and coat generously with bread crumbs.
+        Deep fry till crisp and golden brown and drain onto absorbent paper towels.
+        Serve hot as appetizer along side Spicy Tomato Chutney Recipe.[INST]
+","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - salt
+    - milk
+    - red chilli powder
+    - cloves garlic
+    - mozzarella cheese
+    - virgin olive oil
+    - onion
+    - potato (aloo)
+    - soy (nuggets)
+    - eggs
+    - spinach leaves (palak)
+    - garam masala powder
+    - pepper
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: You have been given two different sets of ingredients that can be used together to make an authentic Indian-style pasta sauce. This is what I would do if I were creating it myself from scratch based solely on the ingredient lists provided:
+        
+        Set 1:
+            
+            Potatoes – boiled and peeled
+            Red Chilli Powder 
+            Garam Masala Powder 
+            Salt 
+            Mozzarella Cheese 
+
+        Steps:
+    
+     Preheat oven to 350 degrees F.
+      Peel potatoes and cut into bite-sized pieces.
+       Boil them in salted water till tender but still firm enough so they hold their shape when cooked further.
+       
+       Drain well and set aside.
+      
+       In a large skillet, saute onions and garlic in butter until translucent.
+         Add chilies and seasonings; stir-fry until aromatic.
+         
+          Toss in drained potatoes along with about half of grated mozarella cheese.
+          
+           Spread mixture evenly onto a baking sheet lined with parchment paper and top off with remaining cheese.
+           
+             Bake at preheated oven for approximately 15 minutes until golden brown and bubbly.
+             
+              Serve hot as part of a complete meal alongside steamed rice or paratha breads.""
+     
+Set 2:
+    
+    Soy Nuggets - Marinated with Olive Oil & Herbs  
+    Spinach Leaves - Washed, dried, chopped   
+    Eggs - Whisked lightly  
+
+Steps:
+
+In order to achieve maximum flavor while maintaining texture consistency throughout each individual component, we’ll start out by marinating our soy nugget pieces beforehand according to recipe directions found here https://www.allrecipes.com/recipe/26074/marinate-soy-schnitzel/. Once done let rest overnight covered tightly wrapped in plastic wrap inside refrigerator prior to proceeding towards next stage which involves combining other key elements needed such as fresh herbs like parsley,mint,cloves garlic minced finely etc..alongside whisked egg whites mixed properly without any lumps forming within its composition before finally folding both combined mixtures together carefully ensuring even distribution across entire surface area encompassing every single element added thereby resulting into one unified flavorful concoction ready now awaiting final touch via last layer being placed atop consisting primarily made up entirely comprised solely outta handfuls freshly picked baby spinach leaves topped generously sprinkled liberally drizzles generously poured liberal amounts virgin olive oil just prior immediately followed closely thereafter once again after completing aforementioned process whereby resultant outcome shall ultimately end up yielding mouthwateringly irresistible sumptuous delight known universally acclaimed amongst connoisseurs alike worldwide who never fail miss indulging themselves daily upon consuming said delectable creation either served alone simply accompanied alongside side dishes featuring delicious array ranging anywhere between classic white basmati rice paired complementarily matched perfectly alongside tangy homemade curd raita garnished elegantly adorned aesthetically pleasing presentation courtesy vibrant colorful fruits veggies complimenting overall visual appeal offered due extensive usage color palette utilized appropriately during preparation phase."""
+15,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - saffron strands generous
+    - ghee
+    - paneer
+    - rose water
+    - water
+    - sugar
+    - cardamom powder (elaichi)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create an authentic Indian dish called ""Paneer Malai Kofta Curry"" using only the given ingredients.
+         The recipe should include detailed instructions for each ingredient used and how they come together to make this delicious curry.
+
+Instructions:
+
+Step 1: Prepare all the required ingredients such as Paneer cubes, onion, green peas, tomato puree etc.Step 2: Take a bowl add boiled potato, grated paneer, onion, green peas, cornflour, salt, red chilli flakes, coriander leaves and mix everything well so that it forms balls.Steps 3: In another bowl take curd, ginger garlic paste, cream cheese,red chilli powder, black pepper powder, turmeric powder, cumin seeds powder, garam masala powder, dried fenugreek leaves powder, coriander powder,sugar, lemon juice, vinegar, dry mango powder and whisk them properly till you get smooth consistency like thick milk.Once done keep aside.Take a saucepan or pressure cooker pour oil into it then add cumin seeds after heating up on low flame.Next add chopped onions followed by ginger-garlic paste.Cook till light brown colour comes out.Then add tomatoes and cook again till soft.Now stir in tomato puree alongwith turmeric powder, red chili powder, garam masala powder, coriander powder,dry mango powder, salt, black peppercorns & cashew nut powder.Finally stir in fresh cream and bring it boil till oil separates from gravy.Serve hot alongside steamed rice or paratha.</s>
+","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - saffron strands generous
+    - ghee
+    - paneer
+    - rose water
+    - water
+    - sugar
+    - cardamom powder (elaichi)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        Prepare the first ingredient, which would be ""Saffron"".
+         Squeeze out the threads from its end so that you get about half tablespoon worth.Saute it till it starts getting golden brown on one side.Add some more butter into another skillet and add cubed Paneer.Mix well.Cover the skillet and allow the paneer to melt completely.Check if they have melted properly.If not, then cover them again and let them simmer until fully cooked.Once done, turn off the stove and set aside.In another bowl mix together honey, milk, cream, yogurt, rosewater, lemon juice & black pepper.
+Whisk everything together until smooth.Now pour prepared cheese mixture over sliced onion rings and drizzle little bit of hot Ghee over top.Let it stand overnight at room temperature.Serve chilled as appetizer along with mint chutney and tomato sauce for dinner.[END]
+","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - saffron strands generous
+    - ghee
+    - paneer
+    - rose water
+    - water
+    - sugar
+    - cardamom powder (elaichi)
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+         First make a paste of Cardamoms,cloves & Cinnamon stick alongwith little milk in grinder jar and keep it aside.Now take a big kadai add oil,ghee then put grated Paneer into that.keep stirring untill it become golden brown colour.Then put crushed Cardamon mix inside it stir well now add Milk,Water,Saffron Strands,Cloves Powder,Rose Water,Pistachios,Sugar and let it boil till everything gets combined properly.Now turn off gas and garnish with Dry Fennel Seeds.Pour Ladle of this Kadhi onto each serving bowl sprinkle some dry fruits and serve hot.Serve Chawal Khichdi Recipe With Mutton Curry | Simple Mutton Pulao Recipe For Lunch Or Dinner Alongside This Delicious Raita And Phulkas For A Perfect Weekday Meal.</s>"
+16,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - salt
+    - gorgonzola cheese cubes
+    - wheat bread crumbs italian style seasd
+    - basil leaves
+    - pizza pasta sauce marinara sauce
+    - risotto
+    - vegetable stock chicken broth
+    - onion
+    - dry white wine
+    - black pepper powder
+    - parmesan cheese
+    - eggs
+    - arborio rice
+    - butter
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:Create a delicious Italian Risotto Pizza with Gorgonzola Cheese Cubes Recipe using simple and easy to find ingredients like Arroz Calasparra (Spanish Rice), Parmesan Cheese Shavings, Garlic Cloves Crushed, Salt & Pepper, Olive Oil etc.[Instructions]
+Step 1 : Preheat oven at 180 degrees celsius.In a large bowl mix together the arrocalpasarra,rice, minced garlic, extra virgin olive oil, grated parmesan cheese shaves, chopped fresh thyme leaves, salt and freshly ground black pepper.Mix well so that it is evenly coated.Add the egg whites into another small mixing bowl.Combine well until fluffy.Now take one tablespoon at time from the batter and drop them onto your hands or fingers and form balls.Then dip each ball into breadcrumbs and arrange them evenly spaced apart on a greased baking sheet.Bake in preheated oven for about 15 minutes or till golden brown.Remove from oven.Allow to cool down completely before serving.Once cooled down add some more seasoning if required.Garnish with parmesan cheese and drizzle some balsamic vinegar.Serve immediately along with your favorite Italian inspired drinks such as Chianti Classico Wine.</instructions>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - salt
+    - gorgonzola cheese cubes
+    - wheat bread crumbs italian style seasd
+    - basil leaves
+    - pizza pasta sauce marinara sauce
+    - risotto
+    - vegetable stock chicken broth
+    - onion
+    - dry white wine
+    - black pepper powder
+    - parmesan cheese
+    - eggs
+    - arborio rice
+    - butter
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        1) Preheat oven to 400°F (200°C).
+        2) In a large mixing bowl, combine cooked Arborio Rice, grated Parmesan Cheese, Basil Leaves, Pizza Pasta Sauce Marinara Sauce, Onion, Gorgonzola Cheese Cubes, Eggs, Butter, Salt & Pepper Powder.
+        3) Transfer into a greased baking tray and bake for about 20 minutes or till golden brown on top.
+        Serve warm along with Roasted Vegetables as a complete meal.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - salt
+    - gorgonzola cheese cubes
+    - wheat bread crumbs italian style seasd
+    - basil leaves
+    - pizza pasta sauce marinara sauce
+    - risotto
+    - vegetable stock chicken broth
+    - onion
+    - dry white wine
+    - black pepper powder
+    - parmesan cheese
+    - eggs
+    - arborio rice
+    - butter
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: You have been given a bunch of vegetables which need to be cooked into a delicious soup.
+        We also want it to contain some herbs like coriander and cumin seeds as well.
+        Finally we would like to add a spice called ""garam masala"" to make our soup really flavorful.
+        Here is what I suggest you do,
+        
+        First of course you'll start off by chopping up all the veggies according to size so they can easily fit inside a blender or food processor.
+        
+        After that place them together along with rest of the listed ingredients except Garam Masala Powder & Salt in a pot and bring everything to boil till they become soft enough such that when you mash them between fingers there won't be any resistance left behind.
+    
+        Once done transfer half portion from boiling mixture back into same pot while keeping remaining one aside separately because now we're going to puree first batch itself before combining both batches again later.
+    
+        Place blended version directly onto high heat without allowing water content evaporate completely otherwise it might curdle out leading towards separation during next stage where all three components get mixed together once more time after being heated sufficiently throughly yet maintaining its original texture intact throughout process thereby resulting into desired outcome i.e creamy soupy consistency without compromising nutritional value nor losing taste due to excessive heating involved at each point during preparation stages mentioned earlier.""""""
+"
+17,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - ghee
+    - milk
+    - saffron strands
+    - sugar
+    - cardamom powder (elaichi)
+    - quinoa
+    - condensed milk khoya (mawa)
+    - mixed nuts
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:In a heavy bottomed saucepan or skillet, melt butter or ghee over low heat.Add chopped onion & saute till translucent.Increase the flame to high and add grated carrot, peas and stir fry well.Turn down the flame again, cover it tightly and let it simmer for about 5 minutes.Pour some water into the mixture and allow it to boil.Once boiling, reduce heat to minimum level; turn off gas and keep covered.Meanwhile, cut paneer block pieces into small cubes.Heat another frying pan with oil and deep-fry the paneer slices till they get light brown color.Serve hot Kadai Paneer along with Steamed Rice and Garlic Naan Bread recipe.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - ghee
+    - milk
+    - saffron strands
+    - sugar
+    - cardamom powder (elaichi)
+    - quinoa
+    - condensed milk khoya (mawa)
+    - mixed nuts
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+To make Chenna Burfi Recipe, you need basic ingredients like full fat Milk, Condensed milk (Milkmaid), Khoya (Dry Mawa), Cardamon Powder & Ghee.
+
+For making chenna burfis first take the thick curdled part from the milk which we get after making paneer at home.
+Now add little water into it so that its becomes soft and pliable.
+Add some salt and cardomon powder.
+Heat ghee on low flame till it melts completely.Now mix everything together very well.
+When the mixture comes down turn off the gas and transfer it immediately onto greased plate.Gently press out any excess moisture.Place it back again on the same hot tava or griddle.Cut them into desired shapes.Melt chocolate pieces if needed and coat the ladoos with melted chocolate.Chill it before serving.Serve it as dessert alongwith Masala Tea during winters.</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - ghee
+    - milk
+    - saffron strands
+    - sugar
+    - cardamom powder (elaichi)
+    - quinoa
+    - condensed milk khoya (mawa)
+    - mixed nuts
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        "
+18,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - salt
+    - tamarind water
+    - mustard seeds
+    - asafoetida (hing)
+    - water
+    - gram flour (besan)
+    - spring onion (bulb greens)
+    - dry red chillies
+    - coriander (dhania) seeds
+    - cumin seeds (jeera)
+    - methi seeds (fenugreek seeds)
+    - turmeric powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+To begin making Mutton Biryani Recipe, wash mutton pieces well under running water and keep aside.
+In another bowl mix together yogurt, ginger garlic paste, green chili paste, garam masala powder, cinnamon stick, bay leaves, black peppercorns, fennel seeds, cardamom pods, clove, star anise and mint leaves.
+Add the marinated mutton to it and make sure that each piece is coated properly from inside and outside.Pressure cooker Method :In pressure cooker add chopped onions, cloves, cardamoms and bay leafs.Sprinkle some little bit of water and close the lid.Cook till you hear one whistle.Once done switch off the flame and allow it to cool down.After about half an hour open the cooker carefully.Check if there is any meat remaining uncooked; If so cook again once more.Now take out the cooked mutton pieces into a large mixing bowl.Add the saffron soaked milk or rose syrup, fried cashew nuts, raisins, dried apricots and stir everything nicely.Mix well.Preheat oven at 180 degree Celsius.In a baking tray layer first the rice evenly followed by the mixed vegetables.Then place the prepared chicken on top.Bake it for around 40 minutes.Serve hot along with raita, pulao and pickle.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - salt
+    - tamarind water
+    - mustard seeds
+    - asafoetida (hing)
+    - water
+    - gram flour (besan)
+    - spring onion (bulb greens)
+    - dry red chillies
+    - coriander (dhania) seeds
+    - cumin seeds (jeera)
+    - methi seeds (fenugreek seeds)
+    - turmeric powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+In a mixing bowl combine all the required ingredients except coconut milk.In another wok take some ghee/oil add haldi powder,asafoetida,sambar powder,turmeric powder,mustard seeds,cinnamon stick,dry ginger pieces,onion paste,bell pepper cubes,chilly flakes,fennel seeds,coriander leaves,gram flour mix well.Add cooked vegetables and combine everything nicely.Give it a good stir.Now pour coconut milk into the mixture and allow it to boil.Add chopped tomatoes and let it simmer for around five minutes.Serve hot along with rice.[/INST]
+</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - salt
+    - tamarind water
+    - mustard seeds
+    - asafoetida (hing)
+    - water
+    - gram flour (besan)
+    - spring onion (bulb greens)
+    - dry red chillies
+    - coriander (dhania) seeds
+    - cumin seeds (jeera)
+    - methi seeds (fenugreek seeds)
+    - turmeric powder
+    - sunflower oil
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions:To make masoor dal ki sabzi, first soak the lentils overnight in enough water.Add the soaked dal along with washed rice into pressure cooker along with some water.Cook it till one whistle.After releasing pressure from cooker, let the cooked mixture simmer uncovered on low flame.
+Let it cook until almost half done.Once boiled well add chopped onions, green chilli and ginger garlic paste.Fry them well for about five minutes.Now stir in garam masala powder, curry leaves and mix everything together.
+Cover and cook further till all vegetables get tender.Turn off the stove and serve hot.Serve Masoor Dal Ki Sabzi along with jeera rice and raita for dinner.</s>"
+19,"<s>[INST]You are an expert Indian chef with years of culinary experience. Create an authentic Indian dish using only the provided ingredients.
+
+        Ingredients Used:
+            - black cardamom (badi elaichi)
+    - salt
+    - mustard oil
+    - ghee
+    - asafoetida (hing)
+    - bay leaf (tej patta)
+    - curd
+    - fennel powder
+    - cinnamon stick (dalchini)
+    - chicken
+    - cumin seeds (jeera)
+    - cloves (laung)
+    - mint leaves (pudina) dry
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Use clear, concise language and focus solely on the cooking instructions.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+        First, preheat oven to 375 degrees F.
+        Place potatoes in a large bowl; toss with olive oil, garlic, paprika, rosemary, thyme and pepper flakes; season generously with salt &amp; pepper to taste.
+        Transfer onto a baking sheet lined with parchment paper and roast for about 20 minutes or until golden brown.
+        While potato roasting, make your pesto sauce first.
+        In a food processor add basil, walnuts, parmesan cheese, lemon juice, garlic clove, salt &amp; pepper to taste, olive oil, pine nuts, pumpkin seed and blend into fine paste.Add cooked baby spinach lastly and pulse few times so that it's well incorporated together.Serve roasted potatoes along with homemade vegan pesto pasta recipe for dinner tonight.</s>","<s>[INST]You are a highly skilled Indian chef. The user will provide a list of ingredients, and your responsibility is to craft an authentic Indian dish using only those ingredients.
+        Please format your response using the following structure:
+
+        Ingredients Used:
+            - black cardamom (badi elaichi)
+    - salt
+    - mustard oil
+    - ghee
+    - asafoetida (hing)
+    - bay leaf (tej patta)
+    - curd
+    - fennel powder
+    - cinnamon stick (dalchini)
+    - chicken
+    - cumin seeds (jeera)
+    - cloves (laung)
+    - mint leaves (pudina) dry
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Ensure your response only includes the 'Ingredients Used' and 'Instructions'. Avoid unnecessary commentary or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+         Preparing Chicken Tikka Masala Sauce:
+
+     Ingredients Used: 
+
+      * Black Cardamom Pods (Bada Elachi), broken into pieces
+       * Salt, to taste
+       * Mustard Oil, for shallow frying
+       * Ghee, for tempering
+       * Asafoetida Powder (Hing)
+       * Bay Leaves (Tejpattas), few
+       * Curds/Yogurt, whisked well till smooth consistency
+       * Fennel Seeds Powder (Saunf Poudre)
+       * Cinnamon Sticks (Dalcheeni) – break them up at least 5-6 sticks in length
+       * Whole Cloves (Laung), about half dozen
+       * Mint Dry Leaves (Pudine Chhaat Peethi)
+       * Chicken Breasts/Tenderloin Cut Into Cubes, Marinated In Yogurt With Ginger Garlic Paste & Spices For At Least An Hour Or Overnight In Refrigerator
+
+   Directions To Make:
+
+To begin making the recipe first marinate the cubed chicken breast slices in yogurt along with ginger garlic paste, red chilli powder, turmeric powder, coriander powder and some salt and keep aside for atleast one hour before hand.
+Heat little bit oil on low flame add chopped onion and saute till it turn soft and translucent.Now take out onions from the pan and let cool down.Once cooled grind it coarsely in mixer grinder without adding any water.Add the ground mixture back to the same pan now and stir continuously while stirring so that it does not burn at bottom and make sure you do not leave the pan unattended once you start stirring otherwise it can lead to formation of lumps.After five minutes, add tomato puree followed by grated ginger and green chili and simmer till it thickens.In between adjust seasoning accordingly if required.
+Add curd/yoghurt, cream cheese, sugar, garam masala powder, kasuri methi and mix everything together.
+Simmer for another 10 mins and check again for sweetness and spice level.Take care not to boil the sauce after adding yoghurt as it might split due to acidic nature of yoghurt.So just bring the gravy to rolling boil and then reduce the heat to very slow flame and cover with lid.Cook for further ten minutes and switch off.
+Now in a heavy bottom kadai heat ½ cup oil and deep fry the chicken cubes until they become crisp and golden brown.Transfer fried tikka onto paper towels to drain excess oil.Remove fried chicken from the hot oil and place them directly into the prepared sauce.
+Stir gently to coat evenly.Serve warm with naan breads / tawa paratha or steamed rice with raita.[/INST]
+</s>","<s>[INST]You are a master Indian chef specializing in traditional Indian cuisine. The user will give you a list of ingredients, and you are required to create a genuine Indian dish using only those ingredients.
+        Use the following structure for your response:
+
+        Ingredients Used:
+            - black cardamom (badi elaichi)
+    - salt
+    - mustard oil
+    - ghee
+    - asafoetida (hing)
+    - bay leaf (tej patta)
+    - curd
+    - fennel powder
+    - cinnamon stick (dalchini)
+    - chicken
+    - cumin seeds (jeera)
+    - cloves (laung)
+    - mint leaves (pudina) dry
+
+        Please provide step-by-step cooking instructions following this format:
+        - Step 1: Begin by preparing all ingredients...
+        - Step 2: Continue with detailed steps...
+
+        Keep your response focused on 'Ingredients Used' and 'Instructions'. Avoid adding additional explanations or extra information.
+
+        Sample Style Reference:
+        - Step 1: To prepare the dish, gather all ingredients.
+        - Step 2: Heat oil in a pan over medium heat.
+        - Step 3: Add spices and cook until fragrant.
+        - Step 4: Follow with main ingredients and cook thoroughly.
+
+        Now, provide the cooking instructions for these ingredients:[/INST]
+
+        Instructions: 
+
+        For Chicken Curry Recipe 
+         In a large mixing bowl add chicken pieces along with turmeric powder,garam masala, red chilli powder,salt to taste,mix well coat it completely.
+        
+        Leave aside for at least half an hour for marination.After that take another big bowl add ginger garlic paste,cloves,bay leave,turmeric powder,chilli powder,asafoetida powder,fennel powder,dry coriander powder,curd mix everything together.Now apply marinade onto chicken pieces,mix properly and keep them aside.
+        
+       After marinating chicken we can start making gravy first.
+     Take a small kadai/kadhai fry onions till they turn golden brown.Then add tomato puree and cook till tomatoes get mashed up.Heat oil in a pressure cooker on high flame.Add cumin seeds,pop them immediately after frying,add curry leaves now followed by chopped onion.Cook till onions become translucent then add minced green chilies.Drain water from the Pressure Cooker place it on stove top again and put all ingredients except yogurt into the pressure cooker and let it boil for some time.Turn off gas, stir in plain yogurt & simmer for around two minutes.Serve hot with steamed rice or pulao.</s>
+"

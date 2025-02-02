@@ -163,3 +163,4 @@ cython_debug/
 
 
 artifacts/Cleaned_Indian_Food_Dataset.csv
+recipe_model/
