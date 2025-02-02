@@ -12,3 +12,5 @@ data_path:
   mistral_base_prompts: artifacts/mistral_base_prompts.json
 test_size:
   test_size: 20
+llama2_model_dir:
+  recipe_model: "pmodels/llama2_trained_model"
